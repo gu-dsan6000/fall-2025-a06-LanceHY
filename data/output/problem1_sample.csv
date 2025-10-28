@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/03/28 15:20:14 INFO BlockManagerInfo: Added broadcast_4_piece263 in memory on mesos-slave-05:34412 (size: 4.0 MB, free: 14.1 GB)",INFO
+"17/06/07 15:42:03 INFO python.PythonRunner: Times: total = 40, boot = -91, init = 131, finish = 0",INFO
+17/06/07 15:38:32 INFO executor.Executor: Finished task 33.0 in stage 379.0 (TID 15192). 2087 bytes result sent to driver,INFO
+17/06/09 17:04:34 INFO executor.Executor: Finished task 34.0 in stage 245.0 (TID 9837). 2198 bytes result sent to driver,INFO
+17/02/01 21:32:48 INFO executor.Executor: Running task 422.0 in stage 93.0 (TID 12124),INFO
+17/06/09 10:32:44 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1,INFO
+"17/06/09 21:11:14 INFO python.PythonRunner: Times: total = 40, boot = -156, init = 196, finish = 0",INFO
+17/06/09 18:41:41 INFO storage.BlockManager: Removing RDD 6675,INFO
+17/06/08 20:13:01 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 353392,INFO
+17/06/09 13:19:38 INFO executor.Executor: Running task 37.0 in stage 13505.0 (TID 540675),INFO
